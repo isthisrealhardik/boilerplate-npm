@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hardik Singh",
+	"description": "a project to learn backend development and apis through fcc",
+	"keywords": [ "backend", "apis", "fcc" ],
+	"license": "From Hard-dick",
+	"version": "0.0.0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
